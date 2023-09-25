@@ -1,5 +1,5 @@
 #include "sort.h"
-
+#include <stdio.h>
 /**
  * swap_int - swaps two elements in an array
  * @a: the first element
